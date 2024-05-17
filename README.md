@@ -19,6 +19,7 @@ In order to start the console, you must use the following command: ./console.py
 **Examples**
 
 $ ./console.py
+
 (hbnb) help
 
 Documented commands (type help <topic>):
