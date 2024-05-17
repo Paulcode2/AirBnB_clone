@@ -15,3 +15,17 @@ In order to start the console, you must use the following command: ./console.py
 - manage (create, update, destroy, etc) objects via a console / command interprete
 - store and persist objects to a file (JSON file)
 - Commands: create, show, destroy, all (shows all), update, help, quit
+
+**Examples**
+
+$ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb) 
+(hbnb) 
+(hbnb) quit
+$
